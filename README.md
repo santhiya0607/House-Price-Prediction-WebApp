@@ -43,7 +43,7 @@ The model takes the following 7 input features**:
 
 🔧 How to Run Locally
 
-> ⚠️ Make sure Python 3.x is installed
+ ⚠️ Make sure Python 3.x is installed
 
 📌 Step-by-step:
 
